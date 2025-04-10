@@ -21,8 +21,11 @@ print(determinar_color(color)) """
 """7) Hacer un programa que cuente del 1 al 100 inclusive e imprima sólo los números pares """
 
 """ 
-Mi codigo mal hecho:
+for i in range (101):
+        if i %2 == 0:
+                print (i).
 
+Mi codigo mal hecho:
 
 def encontrar_pares(numeros):
         numeros_pares = []
